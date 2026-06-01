@@ -31,6 +31,7 @@ This Power BI dashboard analyzes employee attrition, workforce demographics, and
 * Employees aged 26–35 showed the highest turnover
 * Overtime employees had higher attrition rates
 * Lower salary employees showed higher attrition
+* Married employees recorded the highest attrition count
 
 ## KPIs Included
 
