@@ -1,2 +1,47 @@
-# hr-analytics-dashboard
-Power BI dashboard project analyzing employee attrition, job satisfaction, and workforce trends to support data-driven HR decisions.
+# HR Analytics Dashboard
+
+## Project Overview
+
+This Power BI dashboard analyzes employee attrition, workforce demographics, and employee behavior to support data-driven HR decision-making.
+
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.jpg)
+
+## Tools Used
+
+* Power BI
+* Excel
+* Data Visualization
+* Data Cleaning
+
+## Dashboard Features
+
+* Employee Attrition Analysis
+* Department Attrition Trends
+* Age Group Analysis
+* Overtime vs Attrition
+* Salary Range Analysis
+* Marital Status Insights
+* Interactive Filters and KPI Cards
+
+## Key Insights
+
+* Research & Development recorded the highest attrition
+* Employees aged 26–35 showed the highest turnover
+* Overtime employees had higher attrition rates
+* Lower salary employees showed higher attrition
+
+## KPIs Included
+
+* Total Employees
+* Attrition Count
+* Attrition Rate
+* Average Monthly Income
+* Average Years at Company
+
+## Files Included
+
+* HR_Analytics_Dashboard.pbix
+* dashboard-preview.jpg
+* Dataset file
