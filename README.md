@@ -43,6 +43,6 @@ This Power BI dashboard analyzes employee attrition, workforce demographics, and
 
 ## Files Included
 
-* HR_Analytics_Dashboard.pbix
-* dashboard-preview.jpg
-* Dataset file
+* [Power BI Dashboard](Employee_Attrition_Analytics_Dashboard.pbix)
+* ![Dashboard Preview](dashboard-preview.jpg)
+* [Dataset](HR_Analytics.csv)
