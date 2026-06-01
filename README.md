@@ -11,6 +11,8 @@ This Power BI dashboard analyzes employee attrition, workforce demographics, and
 ## Tools Used
 
 * Power BI
+* Power Query
+* DAX (Data Analysis Expressions)
 * Excel
 * Data Visualization
 * Data Cleaning
